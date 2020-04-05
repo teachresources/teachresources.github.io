@@ -1,1 +1,1 @@
-# teachresources.github.io
+# Teaching Resources

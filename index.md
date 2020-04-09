@@ -11,12 +11,12 @@ title: Teaching Resources
 description: Course materials and resources
 buttons:
     - content: RPP
-      url: 'https://teachingresources.github.io/RPP/'
+      url: 'https://teachresources.github.io/RPP/'
       external_url: false
       icon: document-new
     - icon: github
       content: GitHub
-      url: 'https://github.com/TeachingResources'
+      url: 'https://github.com/teachresources'
       external_url: true
 
 # Author box
